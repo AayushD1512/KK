@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/KK.iml" filepath="$PROJECT_DIR$/KK.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion_Intro/Recursion_Intro.iml" filepath="$PROJECT_DIR$/Recursion_Intro/Recursion_Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String_Recursion.iml" filepath="$PROJECT_DIR$/String/String_Recursion.iml" />
     </modules>
   </component>
 </project>
